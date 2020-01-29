@@ -11,6 +11,9 @@ public class AmazonTest
 
 	public static void main(String[] args) 
 	{
+		
+		//Sample Code Modified
+		String vasu="Selenium";
 		//Variable
 		String searchElement="Harry Potter";
 	
