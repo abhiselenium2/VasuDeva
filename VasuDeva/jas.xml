@@ -1,0 +1,10 @@
+<suite name="VasuDeva">
+  <test name="Smoke" >
+    <classes>
+       <class name="com.vasu.testng.AnnotationTest1" />
+       <class name="com.vasu.testng.AnnotationTest2" />
+       <class name="com.vasu.testng.FirstTestNG" />
+       <class name="com.vasu.testng.MultipleTestNgTest" />
+    </classes>
+  </test>
+</suite>
